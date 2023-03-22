@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > This project is about getting the the linter setuo and initial. ideas of making sure the github work flow works fine
 
-**[Heloo microverse]** is a...
+**[Heloo microverse]** is a first project just having two files html and css
 
 ## 🛠 Built With <a name="built-with"></a>
 

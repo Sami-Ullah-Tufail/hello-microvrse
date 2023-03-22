@@ -60,11 +60,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="Heloo Microverse"></a>
+# 📖 [Heloo microverse] <a name="Heloo Microverse"></a>
 
 > This project is about getting the the linter setuo and initial. ideas of making sure the github work flow works fine
 
-**[your_project__name]** is a...
+**[Heloo microverse]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 

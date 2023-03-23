@@ -26,8 +26,6 @@ After you're finished please remove all the comments and instructions!
 -->
 
 
-  <h3><b>README</b></h3>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -69,9 +67,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">HTML&CSS</a></li>
-  </ul>
-</details>
+
 
 <!-- Features -->
 
@@ -79,13 +75,13 @@ After you're finished please remove all the comments and instructions!
 
 > 
 
-- **[HAS lintrs stup_]**
-- **[shows on any browser]**
-- **[clean code]**
+- **[Has lintrs setup_]**
+- **[Shows on any browser]**
+- **[Clean code]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -108,7 +104,7 @@ git clon command followd by th https link
 
 Install this project with:
 
-vs-cod
+Vs-cod
 
 ### Usage
 
@@ -125,6 +121,7 @@ nothing you can d about it
 ### Deployment
 
 You can deploy this project using:
+non
 
 
 
@@ -138,7 +135,6 @@ You can deploy this project using:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/samiullah12345678)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -147,9 +143,9 @@ You can deploy this project using:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[a fill home page]**
-- [ ] **[some forms]**
-- [ ] **[ready to go code]**
+- [ ] **[A full home page]**
+- [ ] **[Some forms]**
+- [ ] **[Ready to go code]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,8 +165,6 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project please give me a like
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -179,7 +173,6 @@ If you like this project please give me a like
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank microverse for inspiration
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,7 +186,6 @@ This project is [MIT](./LICENSE) licensed.
 
 MIT License
 
-Copyright (c) [2023] [SAMI ULLAH]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -25,7 +25,7 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-Heloo Microverse
+<h1> Heloo Microverse </h1>
 
 </div>
 
@@ -93,7 +93,7 @@ Heloo Microverse
 
 > 
 
-- **[Has lintrs stup_]**
+- **[Has lintrs setup_]**
 - **[Shows on any browser]**
 - **[Clean code]**
 

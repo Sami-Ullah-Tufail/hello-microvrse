@@ -37,7 +37,6 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -69,23 +68,10 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="/">HTML</a></li>
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
@@ -99,15 +85,6 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](no link sorry)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -206,7 +183,7 @@ If you like this project please send me an e-mail @ sami.u.tufail@gmail.com
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

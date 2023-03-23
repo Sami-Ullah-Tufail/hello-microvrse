@@ -25,8 +25,7 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-
-  <h3><b>Microverse README Template</b></h3>
+Heloo Microverse
 
 </div>
 

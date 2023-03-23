@@ -25,10 +25,6 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Microverse README Template</b></h3>
 
@@ -98,9 +94,9 @@ After you're finished please remove all the comments and instructions!
 
 > 
 
-- **[HAS lintrs stup_]**
-- **[shows on any browser]**
-- **[clean code]**
+- **[Has lintrs stup_]**
+- **[Shows on any browser]**
+- **[Clean code]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,7 +106,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](no link sory)
+- [Live Demo Link](no link sorry)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +133,7 @@ git clon command followd by th https link
 
 Install this project with:
 
-vs-cod
+Vs-cod
 
 ### Usage
 
@@ -154,6 +150,7 @@ nothing you can d about it
 ### Deployment
 
 You can deploy this project using:
+non
 
 
 
@@ -167,15 +164,8 @@ You can deploy this project using:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/samiullah12345678)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,9 +175,9 @@ You can deploy this project using:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[a fill home page]**
-- [ ] **[some forms]**
-- [ ] **[ready to go code]**
+- [ ] **[A full home page]**
+- [ ] **[Some forms]**
+- [ ] **[Ready to go code]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,7 +197,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project please send me an e-mail @ sami.u.tufail@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,6 +219,26 @@ I would like to thank...
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+MIT License
+
+Copyright (c) [2023] [SAMI ULLAH TUFAIL]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
